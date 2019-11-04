@@ -1,0 +1,19 @@
+Dataset,kurtosis,n_components
+Credit Card,9.239,1
+Credit Card,1.379,2
+Credit Card,2.508,3
+Credit Card,67.882,4
+Credit Card,73.756,5
+Credit Card,49.013,6
+Credit Card,45.760,7
+Credit Card,36.872,8
+Credit Card,30.490,9
+Digits,-0.641,1
+Digits,-1.999,2
+Digits,-2.216,3
+Digits,-2.400,4
+Digits,-2.533,5
+Digits,-2.610,6
+Digits,-2.671,7
+Digits,-2.676,8
+Digits,-2.700,9

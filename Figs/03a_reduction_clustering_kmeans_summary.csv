@@ -1,0 +1,6 @@
+Method,Silhouette - Credit Card,Silhouette - Digits
+k-means++,0.377242427,0.148654135
+PCA-based,0.414337895,0.138439792
+ICA-based,0.374605055,0.120239236
+RP-based,0.379186043,0.139177763
+FactorAnalysis-based,0.410245436,0.135646679
